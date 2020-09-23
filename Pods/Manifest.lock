@@ -1,0 +1,16 @@
+PODS:
+  - ObjectMapper (3.5.3)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 3.2)
+
+SPEC REPOS:
+  trunk:
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+
+PODFILE CHECKSUM: 4ba05a00367b7c5673b9d6af8e7ed800ab642bc3
+
+COCOAPODS: 1.10.0.beta.2
